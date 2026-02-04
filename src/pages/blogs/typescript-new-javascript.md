@@ -7,4 +7,5 @@ subtitle: "Typescript is becoming a standard for web development these days:"
 
 - Type safety
 - Type safety!
+- Type safety!
 - Even more type safety!
